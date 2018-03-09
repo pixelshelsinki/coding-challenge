@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "name": "A notebook",
+      "text": "This is the first description",
+      "image": "https://unsplash.it/500?image=1"
+    },
+    {
+      "id": "1",
+      "name": "Rocks from the beach",
+      "text": "This is the second description",
+      "image": "https://unsplash.it/500?image=12"
+    },
+    {
+      "id": "2",
+      "name": "Creepy forks",
+      "text": "This is the third description",
+      "image": "https://unsplash.it/500?image=23"
+    },
+    {
+      "id": "3",
+      "name": "Nuclear waste",
+      "text": "This is the fourth description",
+      "image": "https://unsplash.it/500?image=34"
+    },
+    {
+      "id": "4",
+      "name": "An unsafe car",
+      "text": "This is the fifth description",
+      "image": "https://unsplash.it/500?image=45"
+    },
+    {
+      "id": "5",
+      "name": "A broken lens",
+      "text": "This is the sixth description",
+      "image": "https://unsplash.it/500?image=56"
+    },
+    {
+      "id": "6",
+      "name": "A panoramic view",
+      "text": "This is the seventh description",
+      "image": "https://unsplash.it/500?image=67"
+    },
+    {
+      "id": "7",
+      "name": "An old door",
+      "text": "This is the eighth description",
+      "image": "https://unsplash.it/500?image=78"
+    },
+    {
+      "id": "8",
+      "name": "Grass",
+      "text": "This is the ninth description",
+      "image": "https://unsplash.it/500?image=89"
+    },
+    {
+      "id": "9",
+      "name": "A Bench",
+      "text": "This is the tenth description",
+      "image": "https://unsplash.it/500?image=32"
+    },
+    {
+      "id": "10",
+      "name": "Camera parts",
+      "text": "This is the eleventh description",
+      "image": "https://unsplash.it/500?image=36"
+    },
+    {
+      "id": "11",
+      "name": "A Record Player",
+      "text": "This is the twelfth description",
+      "image": "https://unsplash.it/500?image=39"
+    },
+    {
+      "id": "12",
+      "name": "A Coffee Date",
+      "text": "This is the thirteenth description",
+      "image": "https://unsplash.it/500?image=42"
+    },
+    {
+      "id": "13",
+      "name": "A Sad Puppy",
+      "text": "This is the fourteenth description",
+      "image": "https://unsplash.it/500?image=1062"
+    },
+    {
+      "id": "14",
+      "name": "Historical Letters",
+      "text": "This is the fifteenth description",
+      "image": "https://unsplash.it/500?image=998"
+    },
+    {
+      "id": "15",
+      "name": "A Nice Suit",
+      "text": "This is the sixteenth description",
+      "image": "https://unsplash.it/500?image=856"
+    },
+    {
+      "id": "16",
+      "name": "Fireworks",
+      "text": "This is the seventeenth description",
+      "image": "https://unsplash.it/500?image=828"
+    },
+    {
+      "id": "17",
+      "name": "A Lonely Pineapple",
+      "text": "This is the eighteenth description",
+      "image": "https://unsplash.it/500?image=824"
+    },
+    {
+      "id": "18",
+      "name": "A Heavenly Bridge",
+      "text": "This is the nineteenth description",
+      "image": "https://unsplash.it/500?image=744"
+    },
+    {
+      "id": "19",
+      "name": "Tulips",
+      "text": "This is the twentieth description",
+      "image": "https://unsplash.it/500?image=696"
+    },
+    {
+      "id": "20",
+      "name": "A Retro Caravan",
+      "text": "This is the twenty-first description",
+      "image": "https://unsplash.it/500?image=655"
+    },
+    {
+      "id": "21",
+      "name": "Breakfast",
+      "text": "This is the twenty-second description",
+      "image": "https://unsplash.it/500?image=493"
+    },
+    {
+      "id": "22",
+      "name": "Fresh Raspberries",
+      "text": "This is the twenty-third description",
+      "image": "https://unsplash.it/500?image=429"
+    },
+    {
+      "id": "23",
+      "name": "Fresh Vegetables",
+      "text": "This is the twenty-fourth description",
+      "image": "https://unsplash.it/500?image=292"
+    }
+  ]
+}
